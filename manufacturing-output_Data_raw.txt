@@ -1,0 +1,171 @@
+<table class="historical_data_table table table-striped table-bordered">
+<thead>
+<tr>
+<th colspan="3" style="text-align:center;">U.K. Manufacturing Output - Historical Data</th>
+</tr>
+</thead>
+<thead>
+<tr>
+<th style="text-align:center;">Year</th>
+<th style="text-align:center;">Billions of US $</th>
+<th style="text-align:center;">% of GDP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">2020</td>
+<td style="text-align:center;">$227.14B</td>
+<td style="text-align:center;">8.39%</td>
+</tr>
+<tr>
+<td style="text-align:center">2019</td>
+<td style="text-align:center;">$245.75B</td>
+<td style="text-align:center;">8.68%</td>
+</tr>
+<tr>
+<td style="text-align:center">2018</td>
+<td style="text-align:center;">$256.36B</td>
+<td style="text-align:center;">8.97%</td>
+</tr>
+<tr>
+<td style="text-align:center">2017</td>
+<td style="text-align:center;">$242.59B</td>
+<td style="text-align:center;">9.11%</td>
+</tr>
+<tr>
+<td style="text-align:center">2016</td>
+<td style="text-align:center;">$245.73B</td>
+<td style="text-align:center;">9.12%</td>
+</tr>
+<tr>
+<td style="text-align:center">2015</td>
+<td style="text-align:center;">$274.30B</td>
+<td style="text-align:center;">9.35%</td>
+</tr>
+<tr>
+<td style="text-align:center">2014</td>
+<td style="text-align:center;">$287.86B</td>
+<td style="text-align:center;">9.39%</td>
+</tr>
+<tr>
+<td style="text-align:center">2013</td>
+<td style="text-align:center;">$265.61B</td>
+<td style="text-align:center;">9.54%</td>
+</tr>
+<tr>
+<td style="text-align:center">2012</td>
+<td style="text-align:center;">$252.36B</td>
+<td style="text-align:center;">9.33%</td>
+</tr>
+<tr>
+<td style="text-align:center">2011</td>
+<td style="text-align:center;">$249.95B</td>
+<td style="text-align:center;">9.40%</td>
+</tr>
+<tr>
+<td style="text-align:center">2010</td>
+<td style="text-align:center;">$236.41B</td>
+<td style="text-align:center;">9.53%</td>
+</tr>
+<tr>
+<td style="text-align:center">2009</td>
+<td style="text-align:center;">$221.24B</td>
+<td style="text-align:center;">9.17%</td>
+</tr>
+<tr>
+<td style="text-align:center">2008</td>
+<td style="text-align:center;">$278.83B</td>
+<td style="text-align:center;">9.54%</td>
+</tr>
+<tr>
+<td style="text-align:center">2007</td>
+<td style="text-align:center;">$299.29B</td>
+<td style="text-align:center;">9.67%</td>
+</tr>
+<tr>
+<td style="text-align:center">2006</td>
+<td style="text-align:center;">$277.32B</td>
+<td style="text-align:center;">10.25%</td>
+</tr>
+<tr>
+<td style="text-align:center">2005</td>
+<td style="text-align:center;">$268.36B</td>
+<td style="text-align:center;">10.60%</td>
+</tr>
+<tr>
+<td style="text-align:center">2004</td>
+<td style="text-align:center;">$267.20B</td>
+<td style="text-align:center;">11.08%</td>
+</tr>
+<tr>
+<td style="text-align:center">2003</td>
+<td style="text-align:center;">$240.22B</td>
+<td style="text-align:center;">11.71%</td>
+</tr>
+<tr>
+<td style="text-align:center">2002</td>
+<td style="text-align:center;">$217.95B</td>
+<td style="text-align:center;">12.24%</td>
+</tr>
+<tr>
+<td style="text-align:center">2001</td>
+<td style="text-align:center;">$205.70B</td>
+<td style="text-align:center;">12.55%</td>
+</tr>
+<tr>
+<td style="text-align:center">2000</td>
+<td style="text-align:center;">$223.42B</td>
+<td style="text-align:center;">13.47%</td>
+</tr>
+<tr>
+<td style="text-align:center">1999</td>
+<td style="text-align:center;">$234.62B</td>
+<td style="text-align:center;">13.95%</td>
+</tr>
+<tr>
+<td style="text-align:center">1998</td>
+<td style="text-align:center;">$240.04B</td>
+<td style="text-align:center;">14.53%</td>
+</tr>
+<tr>
+<td style="text-align:center">1997</td>
+<td style="text-align:center;">$235.67B</td>
+<td style="text-align:center;">15.13%</td>
+</tr>
+<tr>
+<td style="text-align:center">1996</td>
+<td style="text-align:center;">$216.82B</td>
+<td style="text-align:center;">15.32%</td>
+</tr>
+<tr>
+<td style="text-align:center">1995</td>
+<td style="text-align:center;">$208.44B</td>
+<td style="text-align:center;">15.54%</td>
+</tr>
+<tr>
+<td style="text-align:center">1994</td>
+<td style="text-align:center;">$187.05B</td>
+<td style="text-align:center;">16.40%</td>
+</tr>
+<tr>
+<td style="text-align:center">1993</td>
+<td style="text-align:center;">$166.43B</td>
+<td style="text-align:center;">15.68%</td>
+</tr>
+<tr>
+<td style="text-align:center">1992</td>
+<td style="text-align:center;">$189.27B</td>
+<td style="text-align:center;">16.04%</td>
+</tr>
+<tr>
+<td style="text-align:center">1991</td>
+<td style="text-align:center;">$185.83B</td>
+<td style="text-align:center;">16.26%</td>
+</tr>
+<tr>
+<td style="text-align:center">1990</td>
+<td style="text-align:center;">$182.19B</td>
+<td style="text-align:center;">16.67%</td>
+</tr>
+</tbody>
+</table>

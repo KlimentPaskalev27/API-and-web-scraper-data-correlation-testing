@@ -1,0 +1,41 @@
+Python Libraries
+The Python libraries used for the analysis of the data in this paper are the following:
+Pandas - https://pandas.pydata.org/ Open-source data analysis and manipulation tool.
+NumPy - https://numpy.org/ Scientific calculations library.
+Urllib3 - https://urllib3.readthedocs.io/en/stable/ A powerful, user-friendly HTTP client.
+Matplotlib - https://matplotlib.org/ Visualization library.
+Json - https://docs.python.org/3/library/json.html Exposes an API familiar to users of the standard library marshal and pickle modules.
+Requests - https://pypi.org/project/requests/ HTTP Library.
+Beautiful Soup – https://www.crummy.com/software/BeautifulSoup/bs4/doc/ Library for pulling data out of HTML and XML files
+seaborn - https://seaborn.pydata.org/ Statistical data visualization
+scipy.stats - https://docs.scipy.org/doc/scipy/reference/stats.html Statistical functions
+os - https://docs.python.org/3/library/os.html Provides a way of using operating system functionality.
+
+Technical Documentation
+Matplotlib — Visualization with Python. (2022). Retrieved from https://matplotlib.org/
+NumPy. (2022). Retrieved from https://numpy.org/
+pandas - Python Data Analysis Library. (2022). Retrieved from https://pandas.pydata.org/
+requests. (2022). Retrieved from https://pypi.org/project/requests/
+Stojiljkovic, M. NumPy, SciPy, and Pandas: Correlation With Python. Retrieved from https://realpython.com/numpy-scipy-pandas-correlation-python/#example-scipy-correlation-calculation
+seaborn: statistical data visualization. (2022). Retrieved from https://seaborn.pydata.org/
+Beautiful Soup Documentation — Beautiful Soup 4.9.0 documentation. (2022). Retrieved from https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+scipy.stats.kendalltau — SciPy v1.7.1 Manual. (2022). Retrieved from https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kendalltau.html 
+json — JSON encoder and decoder — Python 3.10.1 documentation. (2022). Retrieved from https://docs.python.org/3/library/json.html
+os — Miscellaneous operating system interfaces — Python 3.10.1 documentation. (2022). Retrieved from https://docs.python.org/3/library/os.html
+urllib3 1.26.7 documentation. (2022). Retrieved from https://urllib3.readthedocs.io/en/stable/
+
+Code:
+# Import libraries needed for project
+import os
+import requests
+import json
+import urllib3
+import urllib
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from bs4 import *
+import scipy.stats
+import seaborn as sb
+# Set all graphs to a seaborn style with a grey background grid which makes reading graphs easier
+sb.set()
