@@ -41,3 +41,11 @@ seaborn - https://seaborn.pydata.org/ Statistical data visualization
 scipy.stats - https://docs.scipy.org/doc/scipy/reference/stats.html Statistical functions
 
 os - https://docs.python.org/3/library/os.html Provides a way of using operating system functionality.
+
+## Accessing the Code and Markdown
+The code and markdown is available in the "Is there a correlation between changes of Bitcoin Price and indicators of the UK economy-checkpoint.ipynb" file. 
+
+### Opening the .ipynb file
+You will need to install Jupyter Notebooks in order to open and run the .ipynb file.
+
+Have fun!
